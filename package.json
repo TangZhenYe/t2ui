@@ -1,0 +1,22 @@
+{
+  "name": "t2ui",
+  "version": "1.0.0",
+  "description": "t2ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TangZhenYe/t2ui.git"
+  },
+  "keywords": [
+    "t2ui"
+  ],
+  "author": "tangzhenye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TangZhenYe/t2ui/issues"
+  },
+  "homepage": "https://github.com/TangZhenYe/t2ui#readme"
+}
